@@ -1,0 +1,10 @@
+C:\Users\Павел\Desktop\универ аня\laba_xl\laba_xl\bin\Debug\laba_xl.exe.config
+C:\Users\Павел\Desktop\универ аня\laba_xl\laba_xl\bin\Debug\laba_xl.exe
+C:\Users\Павел\Desktop\универ аня\laba_xl\laba_xl\bin\Debug\laba_xl.pdb
+C:\Users\Павел\Desktop\универ аня\laba_xl\laba_xl\obj\Debug\laba_xl.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\универ аня\laba_xl\laba_xl\obj\Debug\laba_xl.Excel.resources
+C:\Users\Павел\Desktop\универ аня\laba_xl\laba_xl\obj\Debug\laba_xl.Properties.Resources.resources
+C:\Users\Павел\Desktop\универ аня\laba_xl\laba_xl\obj\Debug\laba_xl.csproj.GenerateResource.cache
+C:\Users\Павел\Desktop\универ аня\laba_xl\laba_xl\obj\Debug\laba_xl.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\универ аня\laba_xl\laba_xl\obj\Debug\laba_xl.exe
+C:\Users\Павел\Desktop\универ аня\laba_xl\laba_xl\obj\Debug\laba_xl.pdb
